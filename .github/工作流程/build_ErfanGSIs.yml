@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_064_all_2009080056_338a836209c54a7e.zip
-  ROM_NAME: OxygenOS
-  TZ: Asia/Shanghai
+  ROM_URL：https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.E.20_GLO_0200_2011101442/OnePlus8TOxygen_15.E.20_OTA_0200_all_2011101442_ed5dc.zip
+  ROM_NAME：OxygenOS
+  TZ ：亚洲/上海
 
 jobs:
   build:
