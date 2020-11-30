@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL：https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.E.20_GLO_0200_2011101442/OnePlus8TOxygen_15.E.20_OTA_0200_all_2011101442_ed5dc.zip
-  ROM_NAME：OxygenOS
+  ROM_URL：https://bigota.d.miui.com/V12.0.4.0.QGGCNXM/miui_BEGONIA_V12.0.4.0.QGGCNXM_c250ebe0cb_10.0.zip
+  ROM_NAME：begonia
   TZ ：亚洲/上海
 
 jobs:
